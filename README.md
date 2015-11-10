@@ -3,8 +3,8 @@
  
   A seguir são apresentados os links para acesso das descrições dos serviços, especificações de acesso e métodos disponíveis da integração via Web Service da NFS-e. O acesso pode ser feito na base de homologação para fins de testes e na base produção que emitirá a nota fiscal com efeitos legais. Os testes ou emissão da NFS-e só poderão ser efetuados após autorização do CNPJ do contribuinte e com a utilização do e-CNPJ.
 
-WSDL Homologação
-WSDL Produção
+<a href="http://nfsehml.lajeado.rs.gov.br/thema-nfse/">WSDL Homologação</a>
+<a href="http://nfse.lajeado.rs.gov.br/thema-nfse/">WSDL Produção</a>
 
 <b>Arquivo XSD e exemplos de .XML: </b>
 <ul>
